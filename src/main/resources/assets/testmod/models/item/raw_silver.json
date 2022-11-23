@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "testmod:item/mega_sussyum"
+    "layer0": "testmod:item/raw_silver"
   }
 }
