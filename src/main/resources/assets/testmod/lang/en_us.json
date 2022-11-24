@@ -2,5 +2,12 @@
   "item.testmod.raw_silver": "Raw Silver",
   "item.testmod.silver_ingot": "Silver Ingot",
 
+  "block.testmod.silver_block": "Block of Silver",
+  "block.testmod.tin_block": "Block of Tin",
+  "block.testmod.silver_ore": "Silver Ore",
+  "block.testmod.deepslate_silver_ore": "Deepslate Silver Ore",
+  "block.testmod.tin_ore": "Tin Ore",
+  "block.testmod.deepslate_tin_ore": "Deepslate Tin Ore",
+
   "itemGroup.testtab": "Test Tab"
 }
