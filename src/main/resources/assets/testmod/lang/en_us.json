@@ -1,6 +1,17 @@
 {
   "item.testmod.raw_silver": "Raw Silver",
   "item.testmod.silver_ingot": "Silver Ingot",
+  "item.testmod.raw_bronze": "Raw Bronze",
+  "item.testmod.bronze_ingot": "Bronze Ingot",
+  "item.testmod.raw_tin": "Raw Tin",
+  "item.testmod.tin_ingot": "Tin Ingot",
+  "item.testmod.raw_platinum": "Raw Platinum",
+  "item.testmod.platinum_ingot": "Platinum Ingot",
+  "item.testmod.gypsum_dust": "Gypsum Dust",
+  "item.testmod.siliceous_rock": "Siliceous Rock",
+  "item.testmod.olive": "Olive",
+  "item.testmod.carob_seeds": "Carob Seeds",
+
 
   "block.testmod.silver_block": "Block of Silver",
   "block.testmod.tin_block": "Block of Tin",
@@ -8,6 +19,12 @@
   "block.testmod.deepslate_silver_ore": "Deepslate Silver Ore",
   "block.testmod.tin_ore": "Tin Ore",
   "block.testmod.deepslate_tin_ore": "Deepslate Tin Ore",
+
+
+
+  //"item.testmod.--": "--",
+  //"block.testmod.--": "--",
+
 
   "itemGroup.testtab": "Test Tab"
 }
