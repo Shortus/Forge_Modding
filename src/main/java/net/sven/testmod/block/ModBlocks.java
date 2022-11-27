@@ -49,6 +49,10 @@ public class ModBlocks {
             () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
                     .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.TEST_TAB);
 
+    public static final RegistryObject<Block> LIMESTONE_BRICK = registerBlock("limestone_brick",
+            () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
+                    .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.TEST_TAB);
+
 
 
 
