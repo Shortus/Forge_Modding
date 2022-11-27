@@ -50,6 +50,8 @@ public class ModItems {
     public static final RegistryObject<Item> OLIVE = ITEMS.register("olive",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.TEST_TAB)));
 
+    public static final RegistryObject<Item> AVOCADO = ITEMS.register("avocado",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.TEST_TAB)));
 
 
 
